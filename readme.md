@@ -1,4 +1,4 @@
-## This project provide following functionality: 
+## This project provides the following functionality: 
  1. Webpack configuration for development and production
  2. Transpile ES6+ to ES5
  3. Convert SCSS to CSS
