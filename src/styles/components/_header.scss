@@ -1,0 +1,16 @@
+.header-primary {
+  display: flex;
+  justify-content: space-between;
+  min-height: 50px;
+  background-color: $basePrimary;
+
+  .logo-wrapper {
+    display: flex;
+    align-items: center;
+  }
+
+  .site-logo {
+    width: 96px;
+    margin-left: 20px;
+  }
+}
